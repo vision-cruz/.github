@@ -8,17 +8,14 @@ Nuestra nueva aplicación, denominada "Vision Cruz Live", es un modelo innovador
 
 1. **Transmisión en Vivo:**
   Los usuarios podrán ver la programación del Canal 8 en tiempo real desde cualquier lugar y en cualquier momento, siempre que tengan conexión a internet.
-  
-2. **Contenido a la Carta:**
-  Además de la transmisión en vivo, la aplicación contará con una biblioteca de contenido previamente emitido que los usuarios pueden explorar y ver a su conveniencia.
 
-3. **Interactividad:**
+2. **Interactividad:**
   Los usuarios podrán interactuar con el contenido de varias maneras, como votar en encuestas en vivo, participar en discusiones y compartir contenido en redes sociales.
   
-4. **Información en Tiempo Real:**
+3. **Información en Tiempo Real:**
   Los usuarios tendrán acceso a información en tiempo real, como horarios de programación, noticias de último minuto, y actualizaciones de eventos.
 
-5. **Personalización:**
+4. **Personalización:**
   Los usuarios podrán personalizar su experiencia seleccionando sus programas favoritos, estableciendo recordatorios para los próximos programas, y ajustando sus preferencias de notificación.
 
 ## Beneficios para el Canal 8
