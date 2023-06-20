@@ -27,3 +27,9 @@ El mayor beneficio que da nuestro modo de trabajo es que al momento de entregar 
 Gracias al Figma Framer llevaremos un control detallado sobre la interfaz del cliente.
 
 [Para ver el figma dar click aqui](https://www.figma.com/file/vL6aRwOgtCEWCBxIIqBp6i/Vision-Cruz?type=design&node-id=0-1)
+
+Estos son los demos, una vez iniciemos los diseñadores realizaran una actualizacion en figma de la app, y sera modificada hasta la aprobacion del cliente.
+
+Conforme avancemos este documento sera modificado paso a paso para explicar el funcionamiento completo de la app.
+
+
