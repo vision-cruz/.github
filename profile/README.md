@@ -40,5 +40,4 @@ Después del lanzamiento, seguiremos de cerca el rendimiento de la aplicación y
 
 La aplicación "Vision Cruz Live" es un producto innovador que aprovecha la tecnología para conectar al Canal 8 con su audiencia de formas nuevas y emocionantes. Creemos que esta aplicación será un activo valioso para el Canal 8 y estamos emocionados de ver cómo evolucionará en el futuro.
 
-
-[introduccion](Para ver el documento tecnico dar click aqui)
+[Para ver el documento tecnico dar click aqui](/introduccion)
