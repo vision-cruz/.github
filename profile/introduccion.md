@@ -17,7 +17,7 @@ Este sistema es una herramienta indespensable para lograr un manejo eficiente de
 - [Git](https://git-scm.com/)
 - [JSON](https://www.json.org/json-en.html)
 - [Linux server](https://ubuntu.com/)
-- [CI/CD[(https://resources.github.com/ci-cd/)
+- [Ci/Cd](https://resources.github.com/ci-cd/)
 
 
 ## Beneficios
