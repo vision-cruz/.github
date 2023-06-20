@@ -1,4 +1,4 @@
-#Bienvenido a Vision Cruz Live
+# Bienvenido a Vision Cruz Live
 
 
 Este sistema es una herramienta indespensable para lograr un manejo eficiente de la información.
