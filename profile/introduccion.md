@@ -17,3 +17,12 @@ Este sistema es una herramienta indespensable para lograr un manejo eficiente de
 - [Git](https://git-scm.com/)
 - [JSON](https://www.json.org/json-en.html)
 - [Linux server](https://ubuntu.com/)
+- [CI/CD[(https://resources.github.com/ci-cd/)
+
+
+## Beneficios
+
+El mayor beneficio que da nuestro modo de trabajo es que al momento de entregar el producto, en este mismo reporositorio podra encontrar todo el codigo fuente del producto, podra modificarlo y gracias al CI/CD al dar commit podra desplegar de manera automatica sus apps en las tiendas.
+
+Gracias al Figma Framer llevaremos un control detallado sobre la interfaz del cliente.
+
