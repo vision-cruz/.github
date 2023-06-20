@@ -26,4 +26,4 @@ El mayor beneficio que da nuestro modo de trabajo es que al momento de entregar 
 
 Gracias al Figma Framer llevaremos un control detallado sobre la interfaz del cliente.
 
-[Para ver el figma dar click aqui]([https://resources.github.com/ci-cd/](https://www.figma.com/file/vL6aRwOgtCEWCBxIIqBp6i/Vision-Cruz?type=design&node-id=0-1)https://www.figma.com/file/vL6aRwOgtCEWCBxIIqBp6i/Vision-Cruz?type=design&node-id=0-1)
+[Para ver el figma dar click aqui](https://www.figma.com/file/vL6aRwOgtCEWCBxIIqBp6i/Vision-Cruz?type=design&node-id=0-1)
