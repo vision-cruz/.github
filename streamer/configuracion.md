@@ -1,10 +1,15 @@
-#
-1. Configuración OBS/VMix: OBS (Open Broadcaster Software) y VMix son aplicaciones de producción de video en vivo. Pueden capturar video y audio de diversas fuentes, aplicar efectos y transiciones, y luego enviar la salida a una variedad de destinos, incluido un servidor RTMP.
 
-    Para configurar OBS/VMix, debes seleccionar las fuentes de entrada de video y audio, ajustar la calidad de la transmisión y establecer la dirección de tu servidor RTMP como destino de la transmisión.
+#
+1. Configuración [OBS](https://obsproject.com/)/[VMix](https://www.vmix.com/)
+
+[OBS](https://obsproject.com/)/[VMix](https://www.vmix.com/): OBS (Open Broadcaster Software) y VMix son aplicaciones de producción de video en vivo. Pueden capturar video y audio de diversas fuentes, aplicar efectos y transiciones, y luego enviar la salida Configuración, incluido un servidor RTMP.
+
+    Para configurar [OBS](https://obsproject.com/)/[VMix](https://www.vmix.com/), debes seleccionar las fuentes de entrada de video y audio, ajustar la calidad de la transmisión y establecer la dirección de tu servidor RTMP como destino de la transmisión.
 #
 2. Configuración del servidor Nginx con módulo RTMP: Nginx es un servidor web popular que puede ser extendido con un módulo RTMP para recibir y manejar transmisiones de video en vivo. RTMP (Real-Time Messaging Protocol) es un protocolo diseñado para la transmisión de video y audio en tiempo real.
 
+ 
+    httpsRTMP
     Para utilizar Nginx con RTMP, primero debes instalar el módulo RTMP y luego configurar Nginx para aceptar conexiones RTMP. Esto generalmente implica agregar una sección "rtmp" en tu archivo de configuración de Nginx.
 #
 3. Transmisión RTMP: Una vez que OBS/VMix y Nginx están configurados correctamente, puedes comenzar a transmitir. OBS/VMix codificará el video y audio en tiempo real y enviará la transmisión a Nginx usando RTMP.
