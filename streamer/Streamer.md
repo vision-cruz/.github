@@ -18,4 +18,4 @@ Para iniciar con el streamer de video vamos a tener en cuenta que protocolos vam
 
 
 # Requerimientos
-Un servidor con ip publica con docker instalado.
+Un servidor con ip publica con [Docker](https://www.docker.com/) instalado.
