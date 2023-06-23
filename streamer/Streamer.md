@@ -21,4 +21,8 @@ Para iniciar con el streamer de video vamos a tener en cuenta que protocolos vam
 Un servidor con ip publica con [Docker](https://www.docker.com/) instalado.
 
 
-# [Instalacion](./configuracion.md)
+# Instalacion
+
+[Aqui te mostramos la instalacion](./configuracion.md)
+
+No te olvides de revisar la instalacion. 
